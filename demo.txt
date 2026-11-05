@@ -1,4 +1,2 @@
 Computer science and artificial engineering
-project management git
-changes made in feature branch
-changes made in feature branch in git hub
+
